@@ -1,0 +1,8 @@
+# 忽略本地测试产物
+model_verification/runs/*.md
+!model_verification/runs/template.md
+model_verification/score_report.md
+
+# Python 缓存
+__pycache__/
+*.pyc
